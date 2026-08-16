@@ -1,3 +1,6 @@
+> Repositorio migrado desde `github.com/literato1987`, cuenta anterior del mismo autor,
+> sin acceso desde agosto de 2026. El historial de commits se conserva íntegro.
+
 # Glyph Matrix Simulator
 
 CLI preview tool for **Nothing Phone (3)** Glyph Matrix layouts.
